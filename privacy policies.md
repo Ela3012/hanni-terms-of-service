@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## 1. Introduction
-This Privacy Policy explains how our Discord bot ("the Bot") collects, uses, and protects user data.
+This Privacy Policy explains how our Discord bot Hanni collects, uses, and protects user data.
 
 ## 2. Data We Collect
 The Bot collects minimal data necessary to provide its functionalities:
